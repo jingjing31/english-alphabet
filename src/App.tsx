@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Volume2, Star, RefreshCw, Trophy } from 'lucide-react';
+import { Volume2, Trophy } from 'lucide-react';
 
 interface Letter {
   upper: string;
